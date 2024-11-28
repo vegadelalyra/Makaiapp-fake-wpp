@@ -31,3 +31,5 @@ CONTROL (logic/backend/api)
 
 
 ![imagen](https://github.com/user-attachments/assets/863215f4-faa3-4551-8c32-799989ba27c1)
+![imagen](https://github.com/user-attachments/assets/9a355b04-e4f9-4ba1-af52-bbcf0c36ff2b)
+

@@ -28,3 +28,6 @@ VIEW (UI/components-templates/frontend)
 
 CONTROL (logic/backend/api)
 + SRC
+
+
+![imagen](https://github.com/user-attachments/assets/863215f4-faa3-4551-8c32-799989ba27c1)

@@ -17,7 +17,11 @@ There you can consult our endpoints (just to start, they are...[users, messages]
 
 ## How are the files sorted?
 MVC - MODEL  (database) 
-+ DATA 
++ DATA
+
+## Where is the project deployed?
+In Firebase with its free tier services.
+https://makaia-react-money.web.app/
 
 VIEW (UI/components-templates/frontend)
 + PUBLIC
